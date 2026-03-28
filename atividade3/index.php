@@ -115,12 +115,14 @@
 
 
             echo("
-                <h2>Registro do Pedido:</h2>
-                <p>Nome do Cliente: {$nome}</p>
-                <p>Produto Pedido: {$produto}</p>
-                <p>Tamanho do Produto: {$tamanho}</p>
-                <p>Adicionais: {$adicional}</p>
-                <p>Quantidade Pedida: {$quantidade}</p>
+                <div class='bg-secondary mt-5 rounded text-center'>
+                    <h2>Registro do Pedido:</h2>
+                    <p>Nome do Cliente: {$nome}</p>
+                    <p>Produto Pedido: {$produto}</p>
+                    <p>Tamanho do Produto: {$tamanho}</p>
+                    <p>Adicionais: {$adicional}</p>
+                    <p>Quantidade Pedida: {$quantidade}</p>
+                </div>
             ");
         }
 
