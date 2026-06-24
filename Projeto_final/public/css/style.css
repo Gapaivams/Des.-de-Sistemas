@@ -1,0 +1,25 @@
+.header-border{
+
+  border-bottom: 0.5rem, solid, #c3c3c3; 
+
+}
+
+
+
+.nav-flex{
+
+  display: flex;
+
+  gap: 3rem;
+
+  border-bottom: 0.5rem, solid, #c3c3c3;
+
+}
+
+
+
+.nav-border-style{
+
+  border-left: 0.7rem, solid, #ccc;
+
+}
