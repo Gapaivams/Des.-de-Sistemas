@@ -1,6 +1,6 @@
 CREATE DATABASE trabalho_final;
 
-USE sistema_crud;
+USE trabalho_final;
 
 CREATE TABLE clientes(
 
